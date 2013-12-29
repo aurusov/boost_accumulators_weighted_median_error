@@ -44,6 +44,6 @@ drobus@drobus-VirtualBox:~/1/boost_accumulators_weighted_median_error/build$ ./t
 ```
 
 ##Testing for##
-boost 1.53
-boost 1.54
-boost 1.55
+* boost 1.53
+* boost 1.54
+* boost 1.55
